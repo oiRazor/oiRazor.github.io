@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://blog.crozario.tech/introtoprogramming/2017/07/25/writing-your-first-program.html</loc>
+<lastmod>2017-07-25T14:24:06-04:00</lastmod>
+</url>
+<url>
+<loc>http://blog.crozario.tech/introduction/2017/07/21/hello-world.html</loc>
+<lastmod>2017-07-21T15:41:22-04:00</lastmod>
+</url>
+<url>
+<loc>http://blog.crozario.tech/about/</loc>
+</url>
+<url>
+<loc>http://blog.crozario.tech/</loc>
+</url>
+<url>
+<loc>http://blog.crozario.tech/posts/</loc>
+</url>
+<url>
+<loc>http://blog.crozario.tech/404.html</loc>
+<lastmod>2017-07-30T10:04:59-04:00</lastmod>
+</url>
+</urlset>
