@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://crozario.github.io',
   title: 'JS.',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
-  role: 'Front End Engineer',
+  name: 'Crossley Rozario',
+  role: 'iOS Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    '',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/crozario/',
+    github: 'https://github.com/crozario',
   },
 }
 
@@ -21,12 +21,12 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Date Ready',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    // sourceCode: 'https://github.com',
+    livePreview: 'https://github.com/crozario/crozario/blob/main/assets/dateready-ios.gif',
   },
   {
     name: 'Project 2',
@@ -49,23 +49,25 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
+  'Swift',
+  'SwiftUI',
+  'iOS Development',
+  'MVVM',
+  'SQL',
+  'Figma',
+  'SQL',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Communication',
+  'Adaptability',
+  'Teamwork',
+  'Attention to detail',
+  'Flexible',
+  'Self-motivated',
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'crozario@proton.me',
 }
 
 export { header, about, projects, skills, contact }
