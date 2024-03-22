@@ -25,46 +25,46 @@ const CONFIG = {
     external: {
       header: 'My Projects',
       projects: [
-        {
-          title: 'Date Ready',
-          description:
-            'an app to help improve dating profiles. It is currently able to review profile images. We process images using gpt4 vision api. Future updates will include enhancing images, editing images, help users chat with their matches.',
-          imageUrl:
-            'assets/dateready-ios.gif',
-          link: 'https://github.com/crozario',
-        },
-        {
-          title: 'Articulate',
-          description:
-            'an app for learning new words.',
-          imageUrl:
-            'assets/articulate-ios.gif',
-          link: 'https://github.com/crozario',
-        },
-        {
-          title: 'Tic Tac Toe',
-          description:
-            'A two player 3x3 grid board game with player vs. player and player vs. AI.',
-          imageUrl:
-            'assets/tic-tac-toe-ios.gif',
-          link: 'https://apps.apple.com/us/app/tic-tac-toe-unbeatable-ai/id6474344689',
-        },
-        {
-          title: 'Solar System Demo',
-          description:
-            'displays objects from the solar system. Used Spline for displaying interactive 3D objects.',
-          imageUrl:
-            'assets/solarsystem-ios.gif',
-          link: 'https://github.com/crozario/SolarSystemDemo',
-        },
-        {
-          title: 'Dog Demo',
-          description:
-            'shows random dog images using a public api.',
-          imageUrl:
-            'assets/dogdemo-ios.gif',
-          link: 'https://github.com/crozario/dogdemo',
-        },
+        // {
+        //   title: 'Date Ready',
+        //   description:
+        //     'an app to help improve dating profiles. It is currently able to review profile images. We process images using gpt4 vision api. Future updates will include enhancing images, editing images, help users chat with their matches.',
+        //   imageUrl:
+        //     'portfolioassets/dateready-ios.gif',
+        //   link: 'https://github.com/crozario',
+        // },
+        // {
+        //   title: 'Articulate',
+        //   description:
+        //     'an app for learning new words.',
+        //   imageUrl:
+        //     'portfolioassets/articulate-ios.gif',
+        //   link: 'https://github.com/crozario',
+        // },
+        // {
+        //   title: 'Tic Tac Toe',
+        //   description:
+        //     'A two player 3x3 grid board game with player vs. player and player vs. AI.',
+        //   imageUrl:
+        //     'portfolioassets/tic-tac-toe-ios.gif',
+        //   link: 'https://apps.apple.com/us/app/tic-tac-toe-unbeatable-ai/id6474344689',
+        // },
+        // {
+        //   title: 'Solar System Demo',
+        //   description:
+        //     'displays objects from the solar system. Used Spline for displaying interactive 3D objects.',
+        //   imageUrl:
+        //     'portfolioassets/solarsystem-ios.gif',
+        //   link: 'https://github.com/crozario/SolarSystemDemo',
+        // },
+        // {
+        //   title: 'Dog Demo',
+        //   description:
+        //     'shows random dog images using a public api.',
+        //   imageUrl:
+        //     'portfolioassets/dogdemo-ios.gif',
+        //   link: 'https://github.com/crozario/dogdemo',
+        // },
       ],
     },
   },
@@ -94,7 +94,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'assets/resume.pdf',
+      '',
   },
   skills: [
     'Swift',
